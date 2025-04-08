@@ -1,0 +1,15 @@
+body {
+    background-color:#006400;
+}
+table{
+    width: 1000px;
+    background-color:#98FB98 ;
+    border-spacing: 3px;
+}
+hr{
+    width: 50%;
+    color: rgb(0, 0, 0);
+}
+link{
+    color: #006400;
+}
